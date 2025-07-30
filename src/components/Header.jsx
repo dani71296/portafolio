@@ -31,7 +31,7 @@ export default function Header() {
           <Link to="/" className="hover:text-highlight">HOME</Link>
           <Link to="skills" className="hover:text-highlight">HABILIDADES</Link>
           <Link to="projects" className="hover:text-highlight">VER PROYECTOS</Link>
-          <Link to="contact" className="hover:text-highlight">MEMSAJE</Link>
+          <Link to="contact" className="hover:text-highlight">MENSAJE</Link>
           <a
             href="/curriculum-daniel.pdf"
             download
